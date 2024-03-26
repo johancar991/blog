@@ -1,0 +1,30 @@
+.content{
+    max-width: 1200px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    color: #fc0505;
+    padding-top: 30px;
+}
+header{
+    text-align: center;
+    margin-top: 50px;
+}
+nav{
+    text-align: center;
+    margin-bottom: 20px;
+}
+nav a{
+    display: inline-block;
+    background-color: #000;
+    color: #fff;
+    padding: 5px 10px;
+    margin: 0 5px;
+    border-radius: 30px;
+}
+
+.content-pagination{
+    margin: 30px;
+}
+
